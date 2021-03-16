@@ -5,5 +5,6 @@ You can find it here : https://openclassrooms.com/fr/courses/6390246-passez-au-f
 
 
 /!\ The front-end isn't mine /!\
-I will remake it probably with vue or react later !
+You can find it in my repo OCNode-front if you want to see the full project.
+A complete remake of the front part will come.
 
